@@ -7,7 +7,7 @@ I'm a biomedical sciences grad turned data science master's student at UBC. I’
 - Projects at the intersection of healthcare and data science  
 - Exploring how to make complex data more intuitive through clean, thoughtful visualizations  
 - Learning how to scale up analysis using cloud tools
-- 
+
 ## 🛠 Tools I Use Often
 
 - Python (pandas, scikit-learn, Altair, Jupyter)  
